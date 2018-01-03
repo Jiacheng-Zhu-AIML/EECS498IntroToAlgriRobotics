@@ -1,3 +1,11 @@
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'Bayes network CPT'
+
+Need to be modified
+'''
 from numpy import *
 import random
 

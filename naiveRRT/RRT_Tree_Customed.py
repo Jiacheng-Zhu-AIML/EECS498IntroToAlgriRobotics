@@ -3,7 +3,7 @@ EECS498 HW03 RRT
 JiachengZhu jiachzhu@umich,edu
 
 'RRT Tree'
-Class Bracnh
+Class Branch
 Some times there will be openrave error, just try again please. The algorithm does work for most of the times
 
 '''

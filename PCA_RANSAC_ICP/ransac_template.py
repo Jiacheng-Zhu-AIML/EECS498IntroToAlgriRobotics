@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'RANSAC'
+
+Need to be modified
+'''
 import utils
 import numpy
 ###YOUR IMPORTS HERE###

@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'Inverse Kinematics'
+
+Need to be modified
+'''
 import time
 import openravepy
 import numpy

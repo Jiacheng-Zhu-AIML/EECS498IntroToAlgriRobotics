@@ -6,6 +6,7 @@ JiachengZhu jiachzhu@umich,edu
 Use 8-connected as default
 Uncomment line to use 4-connected neighbors
 
+Need to be modified
 '''
 
 

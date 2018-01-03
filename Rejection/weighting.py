@@ -1,3 +1,12 @@
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'Weighting Rejection'
+
+Need to be modified
+'''
+
 from BayesStructure import *
 from numpy import *
 

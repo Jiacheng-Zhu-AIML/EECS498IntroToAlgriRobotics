@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'ICP'
+
+Need to be modified
+'''
 import utils
 import numpy
 import matplotlib.pyplot as plt

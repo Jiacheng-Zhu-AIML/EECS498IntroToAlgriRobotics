@@ -1,5 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+'''
+EECS498 HW03 A-star
+JiachengZhu jiachzhu@umich,edu
+
+'A-Star Path Finding Algorithm '
+
+Need to be modified
+'''
 import time
 import openravepy
 

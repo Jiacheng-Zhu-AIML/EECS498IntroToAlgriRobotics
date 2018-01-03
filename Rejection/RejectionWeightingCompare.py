@@ -1,3 +1,12 @@
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'Comparing with rejection and weighting'
+
+Need to be modified
+'''
+
 from rejection import *
 from weighting import *
 from matplotlib import pyplot as plt

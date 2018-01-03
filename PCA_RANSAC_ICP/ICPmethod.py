@@ -1,3 +1,12 @@
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'ICP'
+
+Need to be modified
+'''
+
 from numpy import *
 
 def ICPfunction(pc_current_list, pc_target_list, e=0.1):

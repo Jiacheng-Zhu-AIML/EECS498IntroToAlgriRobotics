@@ -1,3 +1,12 @@
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'Bayes Filter Localization'
+
+Need to be modified
+'''
+
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy import *

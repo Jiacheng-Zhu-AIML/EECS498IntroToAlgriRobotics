@@ -1,5 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'Drawing tools'
+
+Need to be modified
+'''
+
 import time
 import openravepy
 

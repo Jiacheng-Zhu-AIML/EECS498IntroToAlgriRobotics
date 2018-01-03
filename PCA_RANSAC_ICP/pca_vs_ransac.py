@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'PCA vs RANSAC'
+
+Need to be modified
+'''
 import utils
 import numpy
 import time

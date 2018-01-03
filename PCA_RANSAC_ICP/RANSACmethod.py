@@ -1,3 +1,11 @@
+'''
+EECS498
+JiachengZhu jiachzhu@umich,edu
+
+'RANSAC functions'
+
+Need to be modified
+'''
 from numpy import *
 from scipy.optimize import leastsq
 import matplotlib.pyplot as plt
