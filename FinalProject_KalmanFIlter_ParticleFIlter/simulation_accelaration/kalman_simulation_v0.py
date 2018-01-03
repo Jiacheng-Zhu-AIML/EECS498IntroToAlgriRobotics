@@ -1,3 +1,15 @@
+'''
+Umich EECS498 Introduction to Algorithmic Robotics Fall 2017
+Instructor: Dmitry Berenson
+GSI: Kevin French
+
+Openrave environment for demonstration
+
+Kalman Filter with acceleration
+
+Xiaoke Wang, Jiacheng Zhu
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 import time
