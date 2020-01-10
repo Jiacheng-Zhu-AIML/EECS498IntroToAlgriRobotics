@@ -1,4 +1,4 @@
-# EECS498IntroToAlgriRobotics
+# EECS498 Introduction to Algorithmic Robotics
 Umich EECS498 Introduction to Algorithmic Robotics work selections
 
 Umich EECS498 Introduction to Algorithmic Robotics Fall 2017
